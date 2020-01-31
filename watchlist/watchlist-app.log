@@ -1,0 +1,101 @@
+2019-12-06 16:09:00.482  INFO 10716 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 10716 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 16:09:00.490 DEBUG 10716 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 16:09:00.494  INFO 10716 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 16:09:02.659  INFO 10716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 16:09:02.679  INFO 10716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 16:09:02.679  INFO 10716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 16:09:02.783  INFO 10716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 16:09:02.783  INFO 10716 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2185 ms
+2019-12-06 16:09:03.063  INFO 10716 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 16:09:03.754  INFO 10716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 16:09:03.766  INFO 10716 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 4.275 seconds (JVM running for 10.457)
+2019-12-06 16:09:08.023  INFO 10716 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 16:09:08.027  INFO 10716 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 16:09:08.035  INFO 10716 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-12-06 16:09:08.083  INFO 10716 --- [http-nio-80-exec-1] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:09:10.397  INFO 10716 --- [http-nio-80-exec-2] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlistItemForm URL
+2019-12-06 16:09:18.337  INFO 10716 --- [http-nio-80-exec-4] c.p.w.controller.WatchlistController     : HTTP POST request received at /watchlistItemForm URL
+2019-12-06 16:09:18.345  INFO 10716 --- [http-nio-80-exec-5] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:12:22.660  INFO 8864 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 8864 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 16:12:22.664 DEBUG 8864 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 16:12:22.668  INFO 8864 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 16:12:25.404  INFO 8864 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 16:12:25.420  INFO 8864 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 16:12:25.420  INFO 8864 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 16:12:25.524  INFO 8864 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 16:12:25.524  INFO 8864 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2748 ms
+2019-12-06 16:12:25.868  INFO 8864 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 16:12:26.790  INFO 8864 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 16:12:26.798  INFO 8864 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 5.028 seconds (JVM running for 17.909)
+2019-12-06 16:12:26.874  INFO 8864 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 16:12:26.878  INFO 8864 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 16:12:26.886  INFO 8864 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-12-06 16:12:26.926  INFO 8864 --- [http-nio-80-exec-1] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:12:30.178  INFO 8864 --- [http-nio-80-exec-2] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlistItemForm URL
+2019-12-06 16:12:37.139  INFO 8864 --- [http-nio-80-exec-4] c.p.w.controller.WatchlistController     : HTTP POST request received at /watchlistItemForm URL
+2019-12-06 16:12:37.147  INFO 8864 --- [http-nio-80-exec-5] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:14:24.802  INFO 8344 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 8344 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 16:14:24.810 DEBUG 8344 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 16:14:24.810  INFO 8344 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 16:14:26.949  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 16:14:26.969  INFO 8344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 16:14:26.969  INFO 8344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 16:14:27.073  INFO 8344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 16:14:27.073  INFO 8344 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2191 ms
+2019-12-06 16:14:27.372  INFO 8344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 16:14:27.985  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 16:14:27.993  INFO 8344 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 3.988 seconds (JVM running for 13.535)
+2019-12-06 16:15:24.058  INFO 8344 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 16:15:24.058  INFO 8344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 16:15:24.066  INFO 8344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-12-06 16:15:24.118  INFO 8344 --- [http-nio-80-exec-1] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:15:25.406  INFO 8344 --- [http-nio-80-exec-2] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlistItemForm URL
+2019-12-06 16:15:30.755  INFO 8344 --- [http-nio-80-exec-3] c.p.w.controller.WatchlistController     : HTTP POST request received at /watchlistItemForm URL
+2019-12-06 16:15:30.767  INFO 8344 --- [http-nio-80-exec-4] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:37:41.797  INFO 5224 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 5224 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 16:37:41.801 DEBUG 5224 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 16:37:41.801  INFO 5224 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 16:37:43.896  INFO 5224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 16:37:43.916  INFO 5224 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 16:37:43.916  INFO 5224 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 16:37:44.036  INFO 5224 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 16:37:44.036  INFO 5224 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2151 ms
+2019-12-06 16:37:44.608  INFO 5224 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 16:37:45.108  INFO 5224 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-12-06 16:37:45.533  INFO 5224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 16:37:45.541  INFO 5224 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 4.521 seconds (JVM running for 38.333)
+2019-12-06 16:38:10.706  INFO 5224 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 16:38:10.706  INFO 5224 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 16:38:10.718  INFO 5224 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2019-12-06 16:38:10.758  INFO 5224 --- [http-nio-80-exec-1] c.p.w.controller.WatchlistController     : HTTP GET request received at /watchlist URL
+2019-12-06 16:41:28.366  INFO 3056 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 3056 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 16:41:28.374 DEBUG 3056 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 16:41:28.375  INFO 3056 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 16:41:30.911  INFO 3056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 16:41:30.927  INFO 3056 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 16:41:30.928  INFO 3056 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 16:41:31.049  INFO 3056 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 16:41:31.050  INFO 3056 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2583 ms
+2019-12-06 16:41:31.588  INFO 3056 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 16:41:31.944  INFO 3056 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-12-06 16:41:32.398  INFO 3056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 16:41:32.409  INFO 3056 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 4.975 seconds (JVM running for 11.134)
+2019-12-06 16:41:42.948  INFO 3056 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 16:41:42.949  INFO 3056 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 16:41:42.960  INFO 3056 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-12-06 17:59:25.404  INFO 12744 --- [main] c.p.watchlist.WatchlistApplication       : Starting WatchlistApplication on DESKTOP-46ESV52 with PID 12744 (C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist\target\classes started by Omali in C:\Users\Omali\Documents\Tech\WebDocument\SpringBootProj\watchlist)
+2019-12-06 17:59:25.410 DEBUG 12744 --- [main] c.p.watchlist.WatchlistApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-06 17:59:25.412  INFO 12744 --- [main] c.p.watchlist.WatchlistApplication       : No active profile set, falling back to default profiles: default
+2019-12-06 17:59:28.110  INFO 12744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-12-06 17:59:28.130  INFO 12744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-06 17:59:28.131  INFO 12744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-06 17:59:28.276  INFO 12744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-06 17:59:28.277  INFO 12744 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2769 ms
+2019-12-06 17:59:28.453  WARN 12744 --- [main] o.s.boot.actuate.endpoint.EndpointId     : Endpoint ID 'release-notes' contains invalid characters, please migrate to a valid format.
+2019-12-06 17:59:28.805  INFO 12744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-06 17:59:29.160  INFO 12744 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 6 endpoint(s) beneath base path '/actuator'
+2019-12-06 17:59:29.538  INFO 12744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-12-06 17:59:29.545  INFO 12744 --- [main] c.p.watchlist.WatchlistApplication       : Started WatchlistApplication in 4.992 seconds (JVM running for 14.181)
+2019-12-06 17:59:53.224  INFO 12744 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-06 17:59:53.225  INFO 12744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-06 17:59:53.237  INFO 12744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
