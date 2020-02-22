@@ -26,6 +26,7 @@ import org.springframework.web.servlet.view.RedirectView;
  *
  * @author Omali
  */
+// Controller
 @Controller
 public class WatchlistController {
 
